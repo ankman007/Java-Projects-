@@ -1,5 +1,5 @@
 
-## +25 Java Projects
+## Java Projects
 
 Welcome to "Java-Projects" repository, a collection of beginner-friendly Java projects that will help you get more familiar with the programming language. 
 
